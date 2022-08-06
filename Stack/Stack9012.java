@@ -2,7 +2,12 @@ package practice.Backjoon.Control;
 
 import java.util.Scanner;
 import java.util.Stack;
-
+/*
+ * Question Name 	:	괄호
+ * Question Number 	:	9012
+ * Question Tier	:	Silver4
+ * Question Link	:	https://www.acmicpc.net/problem/9012
+ */
 public class Stack9012 {
 
 	public static void main(String[] args) {
