@@ -18,3 +18,10 @@
 ## Stack
 * [문자열 폭팔\(Gold 4\)](Stack/Main_9935.java)
 * [괄호\(Silver 4\)](Stack/Stack9012.java)
+
+## BackTracking
+* [연산자 끼워넣기\(Silver 1\)](BackTracking/Main_14888)
+
+## BFS&DFS
+* [\[S/W 문제해결\] 7일차 - 미로2\(D4\)](BFS&DFS/Solution_1227)
+* [격자판의 숫자 이어 붙이기\(D4\)](BFS&DFS/Solution_2819)
