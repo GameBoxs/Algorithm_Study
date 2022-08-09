@@ -5,6 +5,8 @@
 
 ## Simulation
 * [스위치 켜고 끄기\(Silver 3\)](Implementation(Simulation)/Switch1244.java)
+* [색종이](Implementation(Simulation)/Main_2563.java)
+* [색종이 - 2](Implementation(Simulation)/Main_2567.java)
 
 ## Math
 * [신기한 소수\(Gold 5\)](Math/Main_2023.java)
